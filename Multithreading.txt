@@ -1,0 +1,7 @@
+1. Multithreading ==> bu dasturda bir nechta  iplarni yoki jaryonlarni birvaqtning o'ziad bajarish imkonin beradi
+2.Tezlik: Ayrim vazifalarni bir vaqtning o'zida bajarish mumkin.
+3.Resurslardan samarali foydalanish: CPUning bo'sh vaqtidan maksimaldarajada foydalanadi.
+4.I/O vazifalari uchun ideal: Tarmoq so'rovlari yoki fayl o'qish/yozishkabi kirish/chiqish vazifalari uchun yaxshi ishlaydi.
+5.GIL: Python'da GIL tufayli haqiqiy parallel ishlashga erishish qiyin.Bu, asosan, CPU-intensiv vazifalarda seziladi.
+6.Qiyinchiliklar: Multithreading kodni to'g'ri sinxronlashva qattiq kechikishlarning oldini olish kerak, bu esa kodning murakkabligini oshiradi.
+7.Multithreading dan foydalanish juda foydali bo'lishi mumkin, ammo unito'g'ri boshqarish va to'g'ri holatlarda ishlatish kerak.
